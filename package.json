@@ -1,0 +1,24 @@
+{
+  "name": "uriencode_rfc3986",
+  "version": "1.0.0",
+  "description": "rfc3986",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shleyZ/UriEncode_rfc3986.git"
+  },
+  "keywords": [
+    "rfc3986",
+    "百度签名算法",
+    "规范字符串"
+  ],
+  "author": "shleyZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shleyZ/UriEncode_rfc3986/issues"
+  },
+  "homepage": "https://github.com/shleyZ/UriEncode_rfc3986#readme"
+}
